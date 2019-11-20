@@ -8,7 +8,7 @@ namespace APIContagemV2
 
         public void Incrementar()
         {
-            _valorAtual++;
+            _valorAtual += 2;
         }
     }
 }
